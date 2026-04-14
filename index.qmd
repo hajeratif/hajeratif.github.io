@@ -1,28 +1,79 @@
 ---
-title: "Tutorials"
-date: ""
-listing:
-  contents: 
-    - posts
-    - "!posts/presentation/demo"
-  feed: true
-  sort: "date desc"
-  type: default
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Endocrine System"
+subtitle: "Major Functions of the Endocrine System"
 format:
-  html:
-    include-after-body: list.html
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: images/quarto.png
+    css: styles.css
+    footer: '[https://quarto.org](https://quarto.org)'
+    include-after-body: date.html
+resources:
+  - demo.pdf
+revealjs-plugins:
+  - editable
+filters:
+  - editable
 ---
 
-#### Attributions {.appendix}
+------------------------------------------------------------------------
 
-Artwork from ["Hello, Quarto"](https://mine.quarto.pub/hello-quarto/) keynote by [Mine Çetinkaya-Rundel](https://mine-cr.com/) and [Julia Stewart Lowndes](https://jules32.github.io/), presented at RStudio Conference 2022. Illustrated by [Allison Horst](https://allisonhorst.com).
+## Introduction
 
-[![A schematic representing the multi-language input (e.g. Python, R, Observable, Julia) and multi-format output (e.g. PDF, html, Word documents, and more) versatility of Quarto.](posts/manuscript/images/quar.png)](https://allisonhorst.com/cetinkaya-rundel-lowndes-quarto-keynote)
+-   The endocrine system is a network of glands that produce and release hormones.
+-   Hormones regulate growth, metabolism, and reproduction.
+-   Maintains internal balance (homeostasis).
 
-[![Two penguins in a room made of ice, looking out a window. One penguin is holding an icicle as a pointer, pointing at a Quarto logo "moon" in the sky, while the other penguin looks on.](posts/presentation/images/pres.png)](https://allisonhorst.com/cetinkaya-rundel-lowndes-quarto-keynote)
+**Citation:** OpenStax, *Anatomy & Physiology* (2022)
 
-For more from Allison, see her [website](https://allisonhorst.com) and [GitHub](https://github.com/allisonhorst).
+------------------------------------------------------------------------
+
+## Major Endocrine Glands
+
+-   Pituitary gland (master gland)
+-   Thyroid gland
+-   Adrenal glands
+-   Pancreas
+-   Pineal gland
+
+**Citation:** Guyton & Hall, *Textbook of Medical Physiology* (2021)
+
+------------------------------------------------------------------------
+
+## Hormones and Their Functions
+
+-   Hormones are chemical messengers in the bloodstream.
+-   They affect target organs and tissues.
+
+**Examples:** - Insulin → regulates blood glucose\
+- Thyroxine → controls metabolism
+
+**Citation:** OpenStax (2022)
+
+------------------------------------------------------------------------
+
+## Regulation and Feedback
+
+-   The endocrine system uses feedback loops.
+-   Negative feedback is the most common mechanism.
+-   Helps maintain stable internal conditions.
+
+**Citation:** Guyton & Hall (2021)
+
+------------------------------------------------------------------------
+
+## Conclusion
+
+-   The endocrine system is essential for maintaining body balance.
+-   Works closely with the nervous system.
+-   Understanding it helps explain many diseases and body processes.
+
+------------------------------------------------------------------------
+
+## References
+
+-   OpenStax. *Anatomy & Physiology*. 2022.
+-   Guyton, A.C., & Hall, J.E. *Textbook of Medical Physiology*. 2021.
