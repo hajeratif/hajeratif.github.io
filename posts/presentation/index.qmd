@@ -1,10 +1,10 @@
 ---
 title: Quarto presentation
-author: Martin Laptev
+author: Hajer Mohammed
 image: images/pres.png
 css: styles.css
 filters:
-  - ../../date.lua
+  - 04/28/2026
 ---
 
 With Quarto, you can turn Quarto markdown (qmd) files into documents like articles or reports, websites such as blogs, and different kinds of presentations including sales pitches.

@@ -1,15 +1,15 @@
 ---
-title: "Endocrine System"
-subtitle: "Major Functions of the Endocrine System"
+title: "Prefixes and Suffixes"
+subtitle: "The Language of Anatomy & Physiology"
 format:
-  revealjs: 
+  revealjs:
     slide-number: true
-    chalkboard: 
+    chalkboard:
       buttons: false
     preview-links: auto
     logo: images/quarto.png
     css: styles.css
-    footer: '[https://quarto.org](https://quarto.org)'
+    footer: "https://quarto.org"
     include-after-body: date.html
 resources:
   - demo.pdf
@@ -19,63 +19,106 @@ filters:
   - editable
 ---
 
-
----
+------------------------------------------------------------------------
 
 ## Introduction
 
-- The endocrine system is a network of glands that produce and release hormones.
-- Hormones regulate growth, metabolism, and reproduction.
-- Maintains internal balance (homeostasis).
+Medical terminology is built from prefixes, root words, and suffixes. Understanding these word parts is **super helpful** because it allows students and healthcare workers to understand unfamiliar terms quickly without memorizing every word separately. By learning common prefixes and suffixes, we can identify body locations, conditions, diseases, treatments, physiological functions, and chemical processes.
 
-**Citation:** OpenStax, *Anatomy & Physiology* (2022)
+## Why This Is Helpful
 
----
+Learning prefixes and suffixes helps people:
 
-## Major Endocrine Glands
+-   Understand anatomy vocabulary faster.
+-   Break down difficult medical terms.
+-   Improve communication in healthcare settings.
+-   Recognize diseases, procedures, body parts, physiology terms, and chemistry-related processes.
+-   Understand scientific vocabulary used in anatomy, physiology, and biochemistry.
+-   Build confidence when studying anatomy and physiology.
 
-- Pituitary gland (master gland)
-- Thyroid gland
-- Adrenal glands
-- Pancreas
-- Pineal gland
+For example:
 
-**Citation:** Guyton & Hall, *Textbook of Medical Physiology* (2021)
+-   **Adrenal** = **ad-** (near) + **renal** (kidney)
+-   **Hypoglycemia** = **hypo-** (low) + **glyc** (sugar)
+-   **Epidermis** = **epi-** (outer) + **dermis** (skin)
 
----
+## Common Prefixes (Page 1)
 
-## Hormones and Their Functions
+Examples:
 
-- Hormones are chemical messengers in the bloodstream.
-- They affect target organs and tissues.
+-   **Pericardium** = around the heart
+-   **Subcutaneous** = under the skin
+-   **Intercostal** = between the ribs
 
-**Examples:**
-- Insulin → regulates blood glucose  
-- Thyroxine → controls metabolism  
+| Prefix | Meaning           | Example      |
+|--------|-------------------|--------------|
+| ad-    | near, toward      | adrenal      |
+| hypo-  | low, below normal | hypoglycemia |
+| hyper- | high, excessive   | hypertension |
+| epi-   | upon, outer       | epidermis    |
+| endo-  | inside, within    | endocrine    |
+| peri-  | around            | pericardium  |
+| sub-   | under             | subcutaneous |
+| inter- | between           | intercostal  |
+| intra- | within            | intravenous  |
+| brady- | slow              | bradycardia  |
 
-**Citation:** OpenStax (2022)
+## Common Prefixes (Page 2)
 
----
+Examples:
 
-## Regulation and Feedback
+-   **Tachypnea** = fast breathing
+-   **Microorganism** = very small organism
+-   **Bilateral** = both sides
 
-- The endocrine system uses feedback loops.
-- Negative feedback is the most common mechanism.
-- Helps maintain stable internal conditions.
+| Prefix | Meaning           | Example     |
+|--------|-------------------|-------------|
+| tachy- | fast              | tachycardia |
+| dys-   | abnormal, painful | dysplasia   |
+| neo-   | new               | neonatal    |
+| poly-  | many              | polyuria    |
+| oligo- | few, little       | oliguria    |
+| uni-   | one               | unilateral  |
+| bi-    | two               | bilateral   |
+| tri-   | three             | triceps     |
+| micro- | small             | microscope  |
+| macro- | large             | macrocyte   |
 
-**Citation:** Guyton & Hall (2021)
+## Common Suffixes (Page 3)
 
----
+Examples:
+
+-   **Dermatitis** = inflammation of the skin
+-   **Neuralgia** = nerve pain
+-   **Cardiomegaly** = enlarged heart
+-   **Hemolysis** = breakdown of red blood cells
+-   **Amylase** = enzyme that digests starch
+
+Many suffixes are also used in physiology and chemistry. For example, **-lysis** means breakdown or separation, such as in electrolysis or hemolysis.
+
+| Suffix  | Meaning                 | Example           |
+|---------|-------------------------|-------------------|
+| -itis   | inflammation            | arthritis         |
+| -ology  | study of                | cardiology        |
+| -ectomy | surgical removal        | appendectomy      |
+| -algia  | pain                    | neuralgia         |
+| -emia   | blood condition         | anemia            |
+| -osis   | abnormal condition      | cyanosis          |
+| -pathy  | disease                 | neuropathy        |
+| -megaly | enlargement             | cardiomegaly      |
+| -scopy  | visual examination      | endoscopy         |
+| -gram   | record/image            | electrocardiogram |
+| -lysis  | breakdown, separation   | hemolysis         |
+| -ase    | enzyme                  | lactase           |
+| -physis | growth, natural process | epiphysis         |
 
 ## Conclusion
 
-- The endocrine system is essential for maintaining body balance.
-- Works closely with the nervous system.
-- Understanding it helps explain many diseases and body processes.
-
----
+Prefixes and suffixes are essential tools for understanding anatomy, physiology, chemistry, and medical language. They make learning easier, save time, and help students understand hundreds of terms by knowing just a few word parts. Terms such as **-lysis** (breakdown), **-ase** (enzyme), and **-physis** (growth) show how these word parts are used beyond anatomy. Mastering them is valuable for anyone studying healthcare or science.
 
 ## References
 
-- OpenStax. *Anatomy & Physiology*. 2022.
-- Guyton, A.C., & Hall, J.E. *Textbook of Medical Physiology*. 2021.
+1.  OpenStax. *Anatomy & Physiology*.
+2.  Ehrlich A, Schroeder CL. *Medical Terminology for Health Professions*.
+3.  Leonard PC. *Introduction to Medical Terminology*.
+4.  *Taber's Cyclopedic Medical Dictionary*.
