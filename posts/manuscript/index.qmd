@@ -1,6 +1,6 @@
 ---
 title: Quarto manuscript
-author: Martin Laptev
+author: Hajer Mohammed
 image: images/quar.png
 filters:
   - ../../date.lua
@@ -19,8 +19,8 @@ The best way to learn about Quarto is to read the [official documentation](https
 I created a template repo for each of the three main kinds of Quarto websites:
 
 -   Manuscript: <https://github.com/maptv/art>
--   Book: <https://github.com/maptv/book>
--   Blog: <https://github.com/maptv/USERNAME.github.io>
+-   Book: <https://github.com/hajeratif/book>
+-   Blog: <https://github.com/maptv/hajeratif.github.io>
 
 You can see examples of [manuscripts](https://quarto.org/docs/gallery/#articles-reports), [books](https://quarto.org/docs/gallery/#books), and [blogs](https://quarto.org/docs/gallery/#websites) in the [Quarto Gallery](http://quarto.org/docs/gallery).
 
@@ -38,7 +38,7 @@ Regardless of what you want to build with Quarto, you may want to follow the ste
 
 After you feel comfortable with a Quarto manuscript, try to repeat the steps below with my book template repo: <https://github.com/maptv/book>.
 
-The steps below should also work for my blog template repo: <https://github.com/maptv/USERNAME.github.io>, but I prepared separate [blog setup instructions](/posts/presentation) which also explain
+The steps below should also work for my blog template repo: <https://github.com/maptv/hajeratif.github.io>, but I prepared separate [blog setup instructions](/posts/presentation) which also explain
 
 -   why the template repository is called `USERNAME.github.io` and
 -   how to embed a Quarto presentation into a webpage like a Quarto blog post.
