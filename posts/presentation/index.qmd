@@ -10,7 +10,6 @@ format:
     logo: images/quarto.png
     css: styles.css
     footer: "https://quarto.org"
-    include-after-body: date.html
 resources:
   - demo.pdf
 revealjs-plugins:
