@@ -1,138 +1,124 @@
 ---
-title: Quarto presentation
-author: Hajer Mohammed
-image: images/pres.png
-css: styles.css
+title: "Prefixes and Suffixes"
+subtitle: "The Language of Anatomy & Physiology"
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    logo: images/quarto.png
+    css: styles.css
+    footer: "https://quarto.org"
+    include-after-body: date.html
+resources:
+  - demo.pdf
+revealjs-plugins:
+  - editable
 filters:
-  - 04/28/2026
+  - editable
 ---
 
-With Quarto, you can turn Quarto markdown (qmd) files into documents like articles or reports, websites such as blogs, and different kinds of presentations including sales pitches.
+------------------------------------------------------------------------
 
-Like other digital deliverables created by Quarto, presentations can be rendered as HTML, viewed in a web browser, and saved as a PDF using the print dialog.
+## Introduction
 
-Before saving, we should make sure the Layout is set to Landscape.
+Medical terminology is built from prefixes, root words, and suffixes. Understanding these word parts is **super helpful** because it allows students and healthcare workers to understand unfamiliar terms quickly without memorizing every word separately. By learning common prefixes and suffixes, we can identify body locations, conditions, diseases, treatments, physiological functions, and chemical processes.
 
-![](images/clipboard-1451207711.png){style="border-color: gray;border-style: solid;"}
+## Why This Is Helpful
 
-A PDF presentation should have only one slide per page, but putting multiple slides on one page may be convenient if we want to read the slides instead of presenting them.
+Learning prefixes and suffixes helps people:
 
-![](images/clipboard-4067504015.png)
+-   Understand anatomy vocabulary faster.
+-   Break down difficult medical terms.
+-   Improve communication in healthcare settings.
+-   Recognize diseases, procedures, body parts, physiology terms, and chemistry-related processes.
+-   Understand scientific vocabulary used in anatomy, physiology, and biochemistry.
+-   Build confidence when studying anatomy and physiology.
 
-For best results, I suggest following the PDF export instructions in the [RevealJS](https://revealjs.com) documentation: <https://revealjs.com/pdf-export/>.
+For example:
 
-PDF files are ubiquitous and it is good to know that you can generate one with nothing more than a web browser whenever necessary, but HTML files can do many things that PDF files simply cannot.
+-   **Adrenal** = **ad-** (near) + **renal** (kidney)
+-   **Hypoglycemia** = **hypo-** (low) + **glyc** (sugar)
+-   **Epidermis** = **epi-** (outer) + **dermis** (skin)
 
-The HTML presentation below demonstrates all of the features described in its slides, many of which are not active in the PDF presentation beneath it.
+## Common Prefixes (Page 1)
 
-<div>
+Examples:
 
-```{=html}
-<iframe class="slide-deck" src="demo/" width="100%"></iframe>
-```
+-   **Pericardium** = around the heart
+-   **Subcutaneous** = under the skin
+-   **Intercostal** = between the ribs
 
-</div>
+| Prefix | Meaning           | Example      |
+|--------|-------------------|--------------|
+| ad-    | near, toward      | adrenal      |
+| hypo-  | low, below normal | hypoglycemia |
+| hyper- | high, excessive   | hypertension |
+| epi-   | upon, outer       | epidermis    |
+| endo-  | inside, within    | endocrine    |
+| peri-  | around            | pericardium  |
+| sub-   | under             | subcutaneous |
+| inter- | between           | intercostal  |
+| intra- | within            | intravenous  |
+| brady- | slow              | bradycardia  |
 
-<div>
+## Common Prefixes (Page 2)
 
-```{=html}
-<iframe class="slide-deck" src="demo/demo.pdf" width="100%"></iframe>
-```
+Examples:
 
-</div>
+-   **Tachypnea** = fast breathing
+-   **Microorganism** = very small organism
+-   **Bilateral** = both sides
 
-Instead of embedding your presentation in a webpage as shown above, you can view it in its own browser tab in [HTML](demo/) or [PDF](demo/demo.pdf) format.
+| Prefix | Meaning           | Example     |
+|--------|-------------------|-------------|
+| tachy- | fast              | tachycardia |
+| dys-   | abnormal, painful | dysplasia   |
+| neo-   | new               | neonatal    |
+| poly-  | many              | polyuria    |
+| oligo- | few, little       | oliguria    |
+| uni-   | one               | unilateral  |
+| bi-    | two               | bilateral   |
+| tri-   | three             | triceps     |
+| micro- | small             | microscope  |
+| macro- | large             | macrocyte   |
 
-To edit a presentation, you can modify the plain text of the associated qmd file in a [text editor](https://en.wikipedia.org/wiki/Text_editor) or work with a [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) version via the [Visual Mode](https://docs.posit.co/ide/user/ide/guide/documents/visual-editor.html) in RStudio, VSCode, or Positron.
+## Common Suffixes (Page 3)
 
-This repo is set up to use the [quarto-revealjs-editable](https://emilhvitfeldt.github.io/quarto-revealjs-editable/getting-started.html) extension by [Emil Hvitfeldt](https://emilhvitfeldt.github.io/about) which provides an editing experience that is similar to PowerPoint or Google Slides.
+Examples:
 
-After following the instructions below, try previewing the slides by clicking "Render" in RStudio or Posit Cloud, or by running `quarto preview` in the terminal, and then try adding, moving, resizing, and rotating text, arrows, and images as described the [documentation](https://emilhvitfeldt.github.io/quarto-revealjs-editable/getting-started.html#interacting-with-elements) of the extension.
+-   **Dermatitis** = inflammation of the skin
+-   **Neuralgia** = nerve pain
+-   **Cardiomegaly** = enlarged heart
+-   **Hemolysis** = breakdown of red blood cells
+-   **Amylase** = enzyme that digests starch
 
-# Blog and presentation setup instructions
+Many suffixes are also used in physiology and chemistry. For example, **-lysis** means breakdown or separation, such as in electrolysis or hemolysis.
 
-## GitHub repo
+| Suffix  | Meaning                 | Example           |
+|---------|-------------------------|-------------------|
+| -itis   | inflammation            | arthritis         |
+| -ology  | study of                | cardiology        |
+| -ectomy | surgical removal        | appendectomy      |
+| -algia  | pain                    | neuralgia         |
+| -emia   | blood condition         | anemia            |
+| -osis   | abnormal condition      | cyanosis          |
+| -pathy  | disease                 | neuropathy        |
+| -megaly | enlargement             | cardiomegaly      |
+| -scopy  | visual examination      | endoscopy         |
+| -gram   | record/image            | electrocardiogram |
+| -lysis  | breakdown, separation   | hemolysis         |
+| -ase    | enzyme                  | lactase           |
+| -physis | growth, natural process | epiphysis         |
 
-0\. Go to the repo I prepared: <https://github.com/maptv/USERNAME.github.io>
+## Conclusion
 
-1\. Copy “USERNAME.github.io”
+Prefixes and suffixes are essential tools for understanding anatomy, physiology, chemistry, and medical language. They make learning easier, save time, and help students understand hundreds of terms by knowing just a few word parts. Terms such as **-lysis** (breakdown), **-ase** (enzyme), and **-physis** (growth) show how these word parts are used beyond anatomy. Mastering them is valuable for anyone studying healthcare or science.
 
-2\. Click “Use this template” and then “Create new repository”
+## References
 
-3\. Paste “USERNAME.github.io” in as the repository name
-
-4\. Copy your GitHub username and paste it in place of “USERNAME” in “USERNAME.github.io”
-
-<img width="442" height="395" alt="image" src="https://github.com/user-attachments/assets/dafe6b6b-0194-4b44-9e97-b9116a039540" />
-
-5\. Click “Create repository”
-
-6\. Copy the web address (url)
-
-## Posit Cloud project
-
-7\. Go to [https://posit.cloud](https://posit.cloud/)
-
-8\. Click “New Project” and then “New Project from Git Repository”
-
-9\. Paste the repo url you copied in Step 3 and click “OK”
-
-<img width="659" height="254" alt="image" src="https://github.com/user-attachments/assets/23a40a7e-d897-4aad-8fd7-234ddb3a3776" />
-
-## Git setup
-
-10\. In the Files tab of the bottom right pane, select git.R
-
-11\. Edit the user.name and user.email values in git.R and click the diskette icon to save
-
-12\. When you see a yellow banner above git.R, click "Install" and wait for installation to complete in the background
-
-<img width="512" height="251" alt="image" src="https://github.com/user-attachments/assets/d9571374-4b31-48ab-9edb-9cd7ff4eaa27" />
-
-13\. Click “Source” in the upper right corner of the upper left pane (the one that is displaying git.R)
-
-14\. If you already have a Personal Access Token (PAT), close the new browser tab that opened. Otherwise, enter a note, click “Generate Token”, and click the copy button.
-
-## Updating
-
-15\. Make at least one change to at least one file, such as the edits to git.R above
-
-16\. Click the "Git" tab in the top right pane of Posit Cloud
-
-17\. Click the [check box](https://en.wikipedia.org/wiki/Checkbox#:~:text=a%20graphical%20widget%20that%20allows%20the%20user%20to%20make%20a%20binary%20choice) next to the file you changed
-
-18\. Click "Commit" to open a popup window ([modal](https://en.wikipedia.org/wiki/Modal_window#:~:text=a%20graphical%20control%20element%20subordinate%20to%20an%20application%27s%20main%20window))
-
-19\. Enter a commit message in the upper right corner of the modal and click "Commit"
-
-20\. Close all modals and click the green up arrow labeled "Push" to push your commit to GitHub
-
-<img width="946" height="343" alt="image" src="https://github.com/user-attachments/assets/92db4bfd-1828-48a7-a0f7-bf74a07ae189" />
-
-## Publishing
-
-21\. Push at least one commit to your repo using the instructions above so that the credentials manager has your username and PAT
-
-22\. Click on the "publi.sh" file in the "File" tab of the bottom right pane, click "Run" in the upper right corner of the upper left pane, then type "y" in the terminal, press Enter or Return
-
-<img width="802" height="205" alt="image" src="https://github.com/user-attachments/assets/32e42f7a-0818-4193-86e4-142221e0b02a" />
-
-## Notes
-
-After the first time you complete Step 22, you can click "Run Script" instead of "Run" and publish with the need to confirm by entering "y" in the terminal.
-
-<img width="506" height="95" alt="image" src="https://github.com/user-attachments/assets/41814bb7-8c85-468b-a004-02c3b52deac7" />
-
-You may prefer to show the preview of your presentation in the Viewer tab of the lower right pane instead of a separate window.
-
-<img width="729" height="244" alt="image" src="https://github.com/user-attachments/assets/5cfa5359-710b-477a-9cac-8865cf115fa4" />
-
-You can always click "Present in an external browser" if you want to dedicate a whole browser tab to the preview.
-
-<img width="800" height="137" alt="image" src="https://github.com/user-attachments/assets/bec8d6c8-043a-4ca8-a163-871be8d55ccb" />
-
-The template repo I created has the [quarto-revealjs-editable](https://emilhvitfeldt.github.io/quarto-revealjs-editable/getting-started.html) extension by [Emil Hvitfeldt](https://emilhvitfeldt.github.io/about) already installed so that you can make edits like in Powerpoint or Google Slides.
-
-<img width="950" height="436" alt="image" src="https://github.com/user-attachments/assets/2e17d8b9-48b2-48e4-84e8-7880b6278baf" />
-
-Depending on what you add to your site, you may need to install additional dependencies in Posit Cloud and modify the `.github/workflows/publish.yml` file so that you do not need to run `publi.sh` each time you want to update your site. 
+1.  OpenStax. *Anatomy & Physiology*.
+2.  Ehrlich A, Schroeder CL. *Medical Terminology for Health Professions*.
+3.  Leonard PC. *Introduction to Medical Terminology*.
+4.  *Taber's Cyclopedic Medical Dictionary*.
