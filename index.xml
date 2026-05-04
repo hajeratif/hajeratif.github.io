@@ -10,21 +10,21 @@
 <atom:link href="https://USERNAME.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Mon, 04 May 2026 14:20:47 GMT</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 14:28:37 GMT</lastBuildDate>
 <item>
   <title></title>
   <dc:creator>Hajer Mohammed</dc:creator>
   <link>https://USERNAME.github.io/posts/Tutorial/</link>
   <description><![CDATA[ undefined ]]></description>
   <guid>https://USERNAME.github.io/posts/Tutorial/</guid>
-  <pubDate>Mon, 04 May 2026 14:20:47 GMT</pubDate>
+  <pubDate>Mon, 04 May 2026 14:28:37 GMT</pubDate>
 </item>
 <item>
   <title></title>
   <link>https://USERNAME.github.io/posts/presentation/</link>
   <description><![CDATA[ undefined ]]></description>
   <guid>https://USERNAME.github.io/posts/presentation/</guid>
-  <pubDate>Mon, 04 May 2026 14:20:47 GMT</pubDate>
+  <pubDate>Mon, 04 May 2026 14:28:37 GMT</pubDate>
 </item>
 </channel>
 </rss>
