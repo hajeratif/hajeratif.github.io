@@ -8,7 +8,6 @@ format:
     transition: fade
     center: true
     toc: false
-    include-after-body: ../../date.html
 filters:
   - ../../date.lua
 execute:
