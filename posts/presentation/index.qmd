@@ -8,7 +8,7 @@ format:
       buttons: false
     preview-links: auto
     css: styles.css
-    include-after-body: date.html
+    include-after-body: ../../date.html
 filters:
   - ../../date.lua
 ---
