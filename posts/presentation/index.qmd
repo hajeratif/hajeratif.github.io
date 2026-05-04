@@ -1,6 +1,7 @@
 ---
 title: "Prefixes and Suffixes"
 subtitle: "The Language of Anatomy & Physiology"
+author: "Hajer Mohammed"
 format:
   revealjs:
     slide-number: true
