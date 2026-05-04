@@ -7,15 +7,10 @@ format:
     chalkboard:
       buttons: false
     preview-links: auto
-    logo: images/quarto.png
     css: styles.css
-    footer: "https://quarto.org"
-resources:
-  - demo.pdf
-revealjs-plugins:
-  - editable
+    include-after-body: date.html
 filters:
-  - editable
+  - ../../date.lua
 ---
 
 ------------------------------------------------------------------------
