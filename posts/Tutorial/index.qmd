@@ -1,6 +1,6 @@
 ---
 title: "Quarto Tutorial: Create a Presentation and Publish it on GitHub Pages"
-author: "Haje Mohammed"
+author: "Hajer Mohammed"
 format:
   revealjs:
     theme: simple
@@ -8,10 +8,10 @@ format:
     transition: fade
     center: true
     toc: false
-execute: 
+execute:
   echo: false
-editor: 
-  markdown: 
+editor:
+  markdown:
     wrap: 72
 ---
 
